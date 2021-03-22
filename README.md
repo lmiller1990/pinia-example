@@ -5,6 +5,7 @@ If you want to try it out:
 1. `yarn install`
 2. `node src/server.js` for the back-end
 3. `yarn vite` for the front-end
+4. `yarn jest` for the tests
 
 Other Resources:
 
